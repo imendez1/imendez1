@@ -18,6 +18,7 @@ My professional goal is to transition into **Cloud Engineering, Cloud Operations
 - High Availability and Disaster Recovery
 - Infrastructure as Code (IaC)
 - Python and Cloud Automation
+- AWS Cloud Architecture (WGU D319) - Hands-on labs and portfolio development
 
 ## 🏆 Certifications
 
